@@ -77,7 +77,8 @@ We will also dive into Python basics\! We will cover foundational concepts for d
   * Datacamp: [GitHub and Git Tutorial for Beginners](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners)  
   * GitHub:[The Basics of GitHub](https://github.com/intro-to-text-analysis-F23/week3-github-tutorial-478184?tab=readme-ov-file)  
   * Rebecca Krisel's [\_Intro to Python](https://github.com/rskrisel/intro_to_python_workshop/blob/main/Intro_to_Python.ipynb) (Why Python? \- Common Errors)  
-  * Rebecca Krisel's [*Intro to Python*](https://github.com/rskrisel/intro_to_python_workshop/blob/main/Intro_to_Python.ipynb) (Function \- Common Errors)  
+  * Rebecca Krisel's [*Intro to Python*](https://github.com/rskrisel/intro_to_python_workshop/blob/main/Intro_to_Python.ipynb) (Function \- Common Errors)
+* [In class worksheet](https://github.com/rskrisel/intro_to_python_workshop/blob/main/Session_1_Worksheet_Python_for_Public_Policy_TEACHBACK.ipynb)    
 * Additional readings/resources (not required, but useful\!):  
   * Tutorials:  
     * Melanie Walsh, *Introduction to Cultural Analytics*, [The Command Line](https://melaniewalsh.github.io/Intro-Cultural-Analytics/01-Command-Line/01-The-Command-Line.html)  
