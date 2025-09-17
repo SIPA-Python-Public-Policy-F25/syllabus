@@ -102,7 +102,7 @@ We will be using the Pandas Python library to help us achieve our data processin
   * Rebecca Krisel's [Intro to Pandas](https://github.com/rskrisel/pandas/blob/main/pandas_workshop_2024.ipynb)  
   * Rebecca Krisel Intro to Plotly (TBD)  
 * Homework:  
-  * Assignment due at 10am prior to class  
+  * Quiz due at 10am prior to class (See Assignment section in Courseworks) 
 * Additional readings/resources (not required, but useful\!):  
   * Explainers:  
     * Harvard Business School: [Data Wrangling: What It Is & Why It's Important](https://online.hbs.edu/blog/post/data-wrangling)  
