@@ -53,7 +53,7 @@ Final grades will be based on a combination of participation, in-class presentat
 
 **Weekly class structure :**
 
-* Lecture (15 min)  
+* Lecture (15 min) - weekly slides available [here](https://drive.google.com/drive/folders/1KWjnql9QO0k7hqnRvC4h-nlwMSvkCioO?usp=sharing)  
 * Hands-On Live Coding (75 min)  
 * Student-Driven Work with Faculty Support (60 min)  
 * Student Presentations (45 min)
