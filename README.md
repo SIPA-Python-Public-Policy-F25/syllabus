@@ -98,8 +98,8 @@ We will be using the Pandas Python library to help us achieve our data processin
   * The data process: wrangling, cleaning, analysis, and visualization  
   * Pandas basics  
 * Curriculum for this session:  
-  * Rebecca Krisel's [Intro to Pandas](https://github.com/rskrisel/pandas/blob/main/pandas_workshop_2024.ipynb)  
-  * Rebecca Krisel Intro to Plotly (TBD)  
+  * Rebecca Krisel's [Pandas & Plotly](https://github.com/rskrisel/pandas/blob/main/Pandas_Plotly_Workshop.ipynb)   
+* [In class worksheet](https://github.com/rskrisel/pandas/blob/main/Session_2_Student_Worksheet.ipynb)
 * Homework:  
   * Quiz due at 10am prior to class (See Assignment section in Courseworks) 
 * Additional readings/resources (not required, but useful\!):  
