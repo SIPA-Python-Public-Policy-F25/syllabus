@@ -17,7 +17,7 @@
 
 **Meeting Location:** IAB 410  
    
-**Instructor’s Office Hours:** Friday's 9:15am - 11:15am, sign up [here](https://calendly.com/rsk2160/office-hour)
+**Instructor’s Office Hours:** Fridays 9:15am - 11:15am, sign up [here](https://calendly.com/rsk2160/office-hour)
 
 **Course Description:** Whether you're working with datasets, analyzing speeches, or dreaming up new ways to improve the world with an app, Python can help you do it faster, smarter, and more creatively. This course is a practical, hands-on introduction to Python programming for students entering careers in  public policy and international affairs. Designed for complete beginners — including those who *don’t think coding is for them* — this course takes a "Couch to 5K" approach: we start with the basics and build up your confidence and skill through consistent practice, guided walkthroughs, and peer collaboration. Though you will develop a critical mindset around how data, language, and algorithms shape the way we make policy decisions, this is not a theory-heavy class — it’s designed to be hands-on, applied, and confidence-building. By the end, you’ll be comfortable using Python to explore real-world policy questions, tell compelling data stories, and continue learning on your own with the help of today’s most powerful coding tools.
 
