@@ -13,7 +13,7 @@
 
 **Prerequisites:** N/A
 
-**Meeting Dates/ Times**: Saturdays from September 20 to October 11, 11:00 AM – 3:00 PM (3.5 hours of instruction with a 30-minute break)
+**Meeting Dates/ Times**: Saturdays from September 20 to October 11, 11:30 AM – 3:30 PM (3.5 hours of instruction with a 30-minute break)
 
 **Meeting Location:** IAB 410  
    
