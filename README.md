@@ -120,7 +120,7 @@ This week, we will work with the Natural Language Toolkit (NLTK), a suite of Pyt
   * Preparing texts for computational analysis  
   * Basic text analysis tools  
 * Curriculum for this session:  
-  * Rebecca Krisel's [Introduction to NLTK](https://github.com/rskrisel/intro_to_nltk/blob/main/Intro_NLTK_workshop.ipynb)  
+  * Rebecca Krisel's [Introduction to NLTK](https://github.com/rskrisel/intro_to_nltk/blob/main/NLTK_Workshop_policy.ipynb)
 * Homework:  
   * Assignment due at 10am prior to class  
 * Additional readings/resources (not required, but useful\!):  
