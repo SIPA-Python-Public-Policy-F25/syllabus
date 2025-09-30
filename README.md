@@ -121,8 +121,8 @@ This week, we will work with the Natural Language Toolkit (NLTK), a suite of Pyt
   * Basic text analysis tools  
 * Curriculum for this session:  
   * Rebecca Krisel's [Introduction to NLTK](https://github.com/rskrisel/intro_to_nltk/blob/main/NLTK_Workshop_policy.ipynb)
-* Homework:  
-  * Assignment due at 10am prior to class  
+* [In class worksheet](https://github.com/rskrisel/intro_to_nltk/blob/main/session3_nltk_worksheet.ipynb)
+* Homework: Assignment due at 10am prior to class - see courseworks
 * Additional readings/resources (not required, but useful\!):  
   * Tutorials:  
     * Geeks for Geeks: [Generating Word Cloud in Python](https://www.geeksforgeeks.org/generating-word-cloud-python/#:~:text=For%20generating%20word%20cloud%20in,from%20UCI%20Machine%20Learning%20Repository)  
