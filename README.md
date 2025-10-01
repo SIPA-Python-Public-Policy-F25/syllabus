@@ -41,7 +41,7 @@ Final grades will be based on a combination of participation, in-class presentat
 | **Participation** | 10% | Active engagement in class discussions, group work, and coding exercises. |
 | **In-Class Presentations** | 35% | Working in groups of 2-3, students will have 5-7 mins to share how they applied the code for that session to a new dataset, explain their findings and describe their challenges in running the script.  |
 | **Homework Assignments** | 30% | Four structured problem sets designed to reinforce core skills.  |
-| **Final Paper** | 25% | A 1,000 word paper \+ code project applying at least one of the Python libraries from the course to a dataset and research question of your choice. The final project will live in GitHub, helping students build a professional data science portfolio. |
+| **Final Paper** | 25% | A 1,000 word paper \+ code project applying at least one of the Python libraries from the course to a dataset and research question of your choice. The final project will live in GitHub, helping students build a professional data science portfolio. **Due on 10/25 at 11:59pm ET** |
 
 **Late work policy:** Extensions may be granted with prior notice. Unexcused late submissions will be subject to a deduction of 10% per day.
 
