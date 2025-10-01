@@ -132,18 +132,17 @@ This week, we will work with the Natural Language Toolkit (NLTK), a suite of Pyt
     * Digital Humanities at Yale University Library: [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/)  
     * Boston College Library: [Text and Data Mining Projects](https://libguides.bc.edu/textdatamining/projects)
 
-**Session 4: LLMs, Game Building & App Prototyping**
+**Session 4: LLMs & App Prototyping**
 
 This week, we’ll explore how to use large language models (LLMs) like ChatGPT to support and accelerate your Python learning. We’ll begin by experimenting with prompt engineering to generate, debug, and explain Python code. Then, we’ll introduce simple game logic and app-building concepts that allow you to create interactive tools—such as text-based simulations or policy explainers—using Python and Streamlit. This session is about experimentation, creativity, and building confidence in your ability to use AI as a coding collaborator.
 
 * **Topics covered:**  
-  * Prompting ChatGPT to debug and scaffold Python code  
-  * Building text-based games with conditionals and logic  
+  * Prompting ChatGPT to debug and scaffold Python code    
   * Creating interactive apps using Streamlit  
   * Prototyping policy tools or explainers with LLM support  
 * Curriculum for this session:  
   * Martin Breuss, [ChatGPT: Your Personal Python Coding Mentor](https://realpython.com/chatgpt-coding-mentor-python/)  
-  * TBD  
+  * Rebecca Krisel's [Streamlit dashboard for Public Policy](https://github.com/rskrisel/streamlit_colab/blob/main/session4_streamlit_colab.ipynb)  
 * Homework:  
   * Assignment due at 10am prior to class  
 * Additional readings/resources (not required, but useful\!):  
